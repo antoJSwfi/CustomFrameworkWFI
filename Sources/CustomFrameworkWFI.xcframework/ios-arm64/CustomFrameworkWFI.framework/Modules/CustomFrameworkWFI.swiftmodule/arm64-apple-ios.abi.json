@@ -125,7 +125,14 @@
     {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 696,
+      "offset": 480,
+      "length": 19,
+      "value": "\"NEw function test\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
       "length": 21,
       "value": "\"Doing some work OK!\""
     }
