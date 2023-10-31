@@ -1,0 +1,112 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SDK",
+        "printedName": "SDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(apiKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18CustomFrameworkWFI3SDKV9configure6apiKeyySS_tFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV9configure6apiKeyySS_tFZ",
+            "moduleName": "CustomFrameworkWFI",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doSomeWork",
+            "printedName": "doSomeWork()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18CustomFrameworkWFI3SDKV10doSomeWorkyyFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV10doSomeWorkyyFZ",
+            "moduleName": "CustomFrameworkWFI",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:18CustomFrameworkWFI3SDKV",
+        "mangledName": "$s18CustomFrameworkWFI3SDKV",
+        "moduleName": "CustomFrameworkWFI",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 169,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "Array",
+      "offset": 213,
+      "length": 31,
+      "value": "[\"privateKey123\"]"
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 344,
+      "length": 32,
+      "value": "\"Please provide a valid api key\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 638,
+      "length": 21,
+      "value": "\"Doing some work OK!\""
+    }
+  ]
+}
