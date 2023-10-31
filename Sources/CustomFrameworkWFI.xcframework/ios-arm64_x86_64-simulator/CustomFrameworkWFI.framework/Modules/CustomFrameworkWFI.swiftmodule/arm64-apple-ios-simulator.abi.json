@@ -21,6 +21,27 @@
         "children": [
           {
             "kind": "Function",
+            "name": "testNewFunc",
+            "printedName": "testNewFunc()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18CustomFrameworkWFI3SDKV11testNewFuncyyFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV11testNewFuncyyFZ",
+            "moduleName": "CustomFrameworkWFI",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "configure",
             "printedName": "configure(apiKey:)",
             "children": [
@@ -104,7 +125,7 @@
     {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 638,
+      "offset": 696,
       "length": 21,
       "value": "\"Doing some work OK!\""
     }
