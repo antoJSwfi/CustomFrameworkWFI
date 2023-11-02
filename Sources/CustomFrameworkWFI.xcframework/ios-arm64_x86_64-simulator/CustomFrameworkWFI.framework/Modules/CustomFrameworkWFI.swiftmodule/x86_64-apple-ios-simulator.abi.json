@@ -15,10 +15,68 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "JWTKit",
+        "printedName": "JWTKit",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI"
+      },
+      {
         "kind": "TypeDecl",
         "name": "SDK",
         "printedName": "SDK",
         "children": [
+          {
+            "kind": "Function",
+            "name": "sendRequest",
+            "printedName": "sendRequest(caption:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18CustomFrameworkWFI3SDKV11sendRequest7captionySS_tFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV11sendRequest7captionySS_tFZ",
+            "moduleName": "CustomFrameworkWFI",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
           {
             "kind": "Function",
             "name": "testNewFunc",
@@ -102,37 +160,492 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/FirestoreDocument.swift",
+      "kind": "StringLiteral",
+      "offset": 433,
+      "length": 73,
+      "value": "\"projects\/\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/FirestoreDocument.swift",
+      "kind": "StringLiteral",
+      "offset": 455,
+      "length": 1,
+      "value": "\"\/databases\/\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/FirestoreDocument.swift",
+      "kind": "StringLiteral",
+      "offset": 479,
+      "length": 1,
+      "value": "\"\/documents\/\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/FirestoreDocument.swift",
+      "kind": "StringLiteral",
+      "offset": 505,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1063,
+      "length": 5,
+      "value": "\"iss\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1094,
+      "length": 7,
+      "value": "\"scope\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1125,
+      "length": 5,
+      "value": "\"aud\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1160,
+      "length": 5,
+      "value": "\"iat\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1196,
+      "length": 5,
+      "value": "\"exp\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1063,
+      "length": 5,
+      "value": "\"iss\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1094,
+      "length": 7,
+      "value": "\"scope\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1125,
+      "length": 5,
+      "value": "\"aud\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1160,
+      "length": 5,
+      "value": "\"iat\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1196,
+      "length": 5,
+      "value": "\"exp\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1249,
+      "length": 65,
+      "value": "\"firebase-adminsdk-f1260@waitforit-a7c77.iam.gserviceaccount.com\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1343,
+      "length": 104,
+      "value": "\"https:\/\/www.googleapis.com\/auth\/devstorage.full_control https:\/\/www.googleapis.com\/auth\/cloud-platform\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1474,
+      "length": 37,
+      "value": "\"https:\/\/oauth2.googleapis.com\/token\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1626,
+      "length": 4,
+      "value": "1000"
+    },
+    {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 169,
+      "offset": 1896,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 1952,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "Array",
-      "offset": 213,
+      "offset": 1993,
       "length": 31,
       "value": "[\"privateKey123\"]"
     },
     {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 344,
+      "offset": 2208,
+      "length": 12,
+      "value": "\"privateKey\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 2230,
+      "length": 5,
+      "value": "\"pem\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3144,
+      "length": 9,
+      "value": "\"ERROR: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3299,
+      "length": 126,
+      "value": "\"https:\/\/oauth2.googleapis.com\/token?grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Ajwt-bearer&assertion=\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3424,
+      "length": 4,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3456,
+      "length": 10,
+      "value": "\"token ok\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3540,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3572,
+      "length": 35,
+      "value": "\"application\/x-www-form-urlencoded\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 3629,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4156,
+      "length": 9,
+      "value": "\"error: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4339,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4363,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4393,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4533,
+      "length": 17,
+      "value": "\"waitforit-a7c77\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4576,
+      "length": 11,
+      "value": "\"(default)\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4615,
+      "length": 7,
+      "value": "\"posts\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4654,
+      "length": 42,
+      "value": "\"https:\/\/firestore.googleapis.com\/v1beta1\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4851,
+      "length": 51,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4871,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 4900,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5213,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5297,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5388,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5473,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5563,
+      "length": 5,
+      "value": "\"moi\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 5817,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6361,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6401,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6441,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6490,
+      "length": 24,
+      "value": "\"Bearer \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6513,
+      "length": 24,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6536,
+      "length": 15,
+      "value": "\"Authorization\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6586,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6626,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6734,
+      "length": 24,
+      "value": "\"JSON: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6757,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6782,
+      "length": 21,
+      "value": "\"Encoder: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 6802,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7284,
+      "length": 23,
+      "value": "\"response: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7306,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7331,
+      "length": 45,
+      "value": "\"data: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7375,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7543,
+      "length": 9,
+      "value": "\"Content\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7642,
+      "length": 25,
+      "value": "\"content: \""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7666,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7757,
+      "length": 20,
+      "value": "\"Error send request\""
+    },
+    {
+      "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
+      "kind": "StringLiteral",
+      "offset": 7909,
       "length": 32,
       "value": "\"Please provide a valid api key\""
     },
     {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 480,
+      "offset": 8045,
       "length": 19,
       "value": "\"NEw function test\""
     },
     {
       "filePath": "\/Users\/antoczer\/Library\/CloudStorage\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 722,
+      "offset": 8305,
       "length": 21,
       "value": "\"Doing some work OK!\""
     }

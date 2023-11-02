@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CustomFrameworkWFI-Swift.h</key>
 		<data>
-		CXeoEphhHnoZwgunj0+We0VJiPE=
+		bLUh2reE5JNlS3Gx8Nvn6fLuon0=
 		</data>
 		<key>Headers/CustomFrameworkWFI.h</key>
 		<data>
@@ -14,31 +14,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		A17I7Omv/c4cnl+Ohfr/IvJnFGo=
+		RHWkeWxIlH6mtOXxlmlD1/93Ufg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Dq020WKbpg7NqyYPe0uAbaB7R8U=
+		kdrwNviLe4OFYrwNyNXerVPG+Eg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jsqE/bcNQO4s5cOOwWm9mx72Pr4=
+		Yh2KlapM7tJWBLJMZApENIMO7RI=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		+o1tw9G995/7y+Kf3xTNomV9FSo=
+		73ENvCVKK+oRZdxH5B6uO8rxVYw=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jsqE/bcNQO4s5cOOwWm9mx72Pr4=
+		Yh2KlapM7tJWBLJMZApENIMO7RI=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		l83AQnI00bRiwk63j8WZ0o+Maf4=
+		gyaeZzV+LywXxNXJLeM+OGIZSm0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		240RJeUV0sgFWMVxDgPW1pqOVH8=
+		o5xz9VH/spzwpFya39jNbGMFQRc=
+		</data>
+		<key>privateKey.pem</key>
+		<data>
+		+A+meE9ac283Rno3y+bpWEqJs5E=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSsM5iAHvHwOFhUEQhbRsPVbBNzv0GvbNGAt4gwNmY0=
+			qsrSnQA1C2V2dWW+4RU+ULj5+yeWZcwfDekWYOK45u4=
 			</data>
 		</dict>
 		<key>Headers/CustomFrameworkWFI.h</key>
@@ -61,42 +65,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s+L19R8E/Yq3quMcuZLGNM5//pxUp8HuTVlb2oMWQto=
+			v3fZ1WLrIVp7iwBiti89v7DWo/EFEthp0+CTlt91neA=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rpX8EzWM1GDHM+P7qIOSdEmQj7k+2AC6+GIZRu2sopA=
+			D6kmKwt28I4YRHrxdGwlyqhuvKRLMa+tgruHtgiDoXU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOUsbvZD9XH/cNfl7cM64puaMQz6oZTKwJcwX+biVEo=
+			nTRKD5e4A+CO1725x2fk3QJM9PD+7D8ywDYijNBXL9U=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rpX8EzWM1GDHM+P7qIOSdEmQj7k+2AC6+GIZRu2sopA=
+			D6kmKwt28I4YRHrxdGwlyqhuvKRLMa+tgruHtgiDoXU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IkAQk6ww6CKHWWlOXbIEfcGfn9eMJ0QJZmNA+TM+ZvA=
+			8GWKhmJ/UUvs9tNgSdaLhhVm69zghF8PMQt3EUJikIA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChWWKjO1CABhh4QEYdSxKVLREyFFoJBJ7hM9dTZG02o=
+			NLIubAKcUZ+04oWMfd9S1xlscUBI4rMebbHAF7XCgUs=
+			</data>
+		</dict>
+		<key>privateKey.pem</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3CP/Vhd1wvujePB6ZLC4L5qZC3lBUqyRVgXf+JkEDqw=
 			</data>
 		</dict>
 	</dict>

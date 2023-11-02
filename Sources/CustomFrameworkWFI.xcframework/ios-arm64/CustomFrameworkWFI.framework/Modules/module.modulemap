@@ -1,7 +1,7 @@
 framework module CustomFrameworkWFI {
   umbrella header "CustomFrameworkWFI.h"
-
   export *
+
   module * { export * }
 }
 
