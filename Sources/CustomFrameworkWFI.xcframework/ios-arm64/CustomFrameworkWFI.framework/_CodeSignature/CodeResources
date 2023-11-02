@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		kdrwNviLe4OFYrwNyNXerVPG+Eg=
+		/ZdFqH7jVuUtzNbh63C0NMiqSjg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Yh2KlapM7tJWBLJMZApENIMO7RI=
+		taKWkAzqh8CuuGSISAeWHuXvngg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,19 +30,15 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Yh2KlapM7tJWBLJMZApENIMO7RI=
+		taKWkAzqh8CuuGSISAeWHuXvngg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gyaeZzV+LywXxNXJLeM+OGIZSm0=
+		yUa2R8UoAj0NxzqFdhtgrxLBD8w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		o5xz9VH/spzwpFya39jNbGMFQRc=
-		</data>
-		<key>privateKey.pem</key>
-		<data>
-		+A+meE9ac283Rno3y+bpWEqJs5E=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -65,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v3fZ1WLrIVp7iwBiti89v7DWo/EFEthp0+CTlt91neA=
+			60/ndjUsmxqCRmmPQey1MUErBwL5rdxKWtFRt17IOCk=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D6kmKwt28I4YRHrxdGwlyqhuvKRLMa+tgruHtgiDoXU=
+			ptxi/E4B4e0gohevl85UgDpUrsi2mRIL9JxXWV1xR7g=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -86,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D6kmKwt28I4YRHrxdGwlyqhuvKRLMa+tgruHtgiDoXU=
+			ptxi/E4B4e0gohevl85UgDpUrsi2mRIL9JxXWV1xR7g=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8GWKhmJ/UUvs9tNgSdaLhhVm69zghF8PMQt3EUJikIA=
+			SkRMI/p5hJipHr/9FKiGk9q8blzPpAIiFH0UO5J5BVw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -101,13 +97,6 @@
 			<key>hash2</key>
 			<data>
 			NLIubAKcUZ+04oWMfd9S1xlscUBI4rMebbHAF7XCgUs=
-			</data>
-		</dict>
-		<key>privateKey.pem</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3CP/Vhd1wvujePB6ZLC4L5qZC3lBUqyRVgXf+JkEDqw=
 			</data>
 		</dict>
 	</dict>

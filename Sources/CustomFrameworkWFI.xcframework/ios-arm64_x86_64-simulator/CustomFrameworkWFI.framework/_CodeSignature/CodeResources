@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kdrwNviLe4OFYrwNyNXerVPG+Eg=
+		/ZdFqH7jVuUtzNbh63C0NMiqSjg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		o+Rshc3yHvuZcb/NxdlU2FdtZ2I=
+		oxe6IvnUwSMzX9mf4eo5K+5Uuxo=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		o+Rshc3yHvuZcb/NxdlU2FdtZ2I=
+		oxe6IvnUwSMzX9mf4eo5K+5Uuxo=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Pun9mWSQ7nKhZ0togop1Tah+6Mo=
+		ZCdDfZsmDQ265JPWEuKO/uacOz0=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kdrwNviLe4OFYrwNyNXerVPG+Eg=
+		/ZdFqH7jVuUtzNbh63C0NMiqSjg=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		L6NW7jD0RLViFg+d1bwMVMJTsRk=
+		7uIhEcgZPmMxUxOYv5gMCxf1tWk=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,19 +50,15 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		L6NW7jD0RLViFg+d1bwMVMJTsRk=
+		7uIhEcgZPmMxUxOYv5gMCxf1tWk=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lJ1ouYaL08Rob8JM7qc1kFPyCI8=
+		6JziaszP15rBcsvOGG1+KSLKa9Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		o5xz9VH/spzwpFya39jNbGMFQRc=
-		</data>
-		<key>privateKey.pem</key>
-		<data>
-		+A+meE9ac283Rno3y+bpWEqJs5E=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -85,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v3fZ1WLrIVp7iwBiti89v7DWo/EFEthp0+CTlt91neA=
+			60/ndjUsmxqCRmmPQey1MUErBwL5rdxKWtFRt17IOCk=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y59CKRCzjbe1flVllvIc/QjS9mOYSkixmoJJgczHLd4=
+			4TX2Q126+6LpLf/ZYzwCZyY/lfgtjpDmaNH9cMI64nw=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -106,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y59CKRCzjbe1flVllvIc/QjS9mOYSkixmoJJgczHLd4=
+			4TX2Q126+6LpLf/ZYzwCZyY/lfgtjpDmaNH9cMI64nw=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OpbbAQ00ncax6GMwYMp1fibuZ9jcMFK22isWTdIUkP8=
+			4lG1qJUB61BY8u99vOM/vv42SZnYYDPlTRZRRUR34as=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v3fZ1WLrIVp7iwBiti89v7DWo/EFEthp0+CTlt91neA=
+			60/ndjUsmxqCRmmPQey1MUErBwL5rdxKWtFRt17IOCk=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			utqRr2NzgW1O2mBxtQoXU9SbvxWP0ELI86gdg9ZPSEs=
+			lWQx5/a6+i01lHCaQ7L7wz68Zc7OTNleFi/T9cIwv4c=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -141,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			utqRr2NzgW1O2mBxtQoXU9SbvxWP0ELI86gdg9ZPSEs=
+			lWQx5/a6+i01lHCaQ7L7wz68Zc7OTNleFi/T9cIwv4c=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwmrPBv9HOFx30+Dlb7yzUYi6mYz0YGxl3EGJxg7vp4=
+			8yJ5E5rVBgc/GQziMb3HMfuh9WYEuP4Rkb2mMdEj4+0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -156,13 +152,6 @@
 			<key>hash2</key>
 			<data>
 			NLIubAKcUZ+04oWMfd9S1xlscUBI4rMebbHAF7XCgUs=
-			</data>
-		</dict>
-		<key>privateKey.pem</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3CP/Vhd1wvujePB6ZLC4L5qZC3lBUqyRVgXf+JkEDqw=
 			</data>
 		</dict>
 	</dict>

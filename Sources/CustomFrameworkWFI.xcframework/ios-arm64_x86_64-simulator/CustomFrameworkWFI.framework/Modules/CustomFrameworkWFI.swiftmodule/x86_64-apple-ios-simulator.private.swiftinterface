@@ -14,6 +14,6 @@ import _SwiftConcurrencyShims
 public struct SDK {
   public static func sendRequest(caption: Swift.String)
   public static func testNewFunc()
-  public static func configure(apiKey: Swift.String)
+  public static func configure(apiKey: Swift.String, certificateData: Foundation.Data)
   public static func doSomeWork()
 }
