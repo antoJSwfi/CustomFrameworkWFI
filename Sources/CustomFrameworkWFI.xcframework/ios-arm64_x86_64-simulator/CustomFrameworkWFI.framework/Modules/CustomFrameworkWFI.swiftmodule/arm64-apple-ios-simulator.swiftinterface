@@ -11,7 +11,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 public struct SDK {
-  public static func sendRequest(caption: Swift.String, imageUrl: [Swift.String], ownerImageUrl: Swift.String, ownerUid: Swift.String, ownerUsername: Swift.String, futureDate: Foundation.Date, recipientList: [Swift.String])
+  public static func sendRequest(caption: Swift.String, image: UIKit.UIImage, ownerImageUrl: Swift.String, ownerUid: Swift.String, ownerUsername: Swift.String, futureDate: Foundation.Date, recipientList: [Swift.String])
   public static func testNewFunc()
   public static func configure(apiKey: Swift.String, certificateData: Foundation.Data)
   public static func doSomeWork()

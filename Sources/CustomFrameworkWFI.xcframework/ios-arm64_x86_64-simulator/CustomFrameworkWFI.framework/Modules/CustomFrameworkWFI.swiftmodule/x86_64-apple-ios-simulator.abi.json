@@ -53,7 +53,7 @@
           {
             "kind": "Function",
             "name": "sendRequest",
-            "printedName": "sendRequest(caption:imageUrl:ownerImageUrl:ownerUid:ownerUsername:futureDate:recipientList:)",
+            "printedName": "sendRequest(caption:image:ownerImageUrl:ownerUid:ownerUsername:futureDate:recipientList:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -68,17 +68,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Array",
-                "printedName": "[Swift.String]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sa"
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
               },
               {
                 "kind": "TypeNominal",
@@ -120,8 +112,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18CustomFrameworkWFI3SDKV11sendRequest7caption8imageUrl010ownerImageI00J3Uid0J8Username10futureDate13recipientListySS_SaySSGS3S10Foundation0O0VALtFZ",
-            "mangledName": "$s18CustomFrameworkWFI3SDKV11sendRequest7caption8imageUrl010ownerImageI00J3Uid0J8Username10futureDate13recipientListySS_SaySSGS3S10Foundation0O0VALtFZ",
+            "usr": "s:18CustomFrameworkWFI3SDKV11sendRequest7caption5image13ownerImageUrl0I3Uid0I8Username10futureDate13recipientListySS_So7UIImageCS3S10Foundation0O0VSaySSGtFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV11sendRequest7caption5image13ownerImageUrl0I3Uid0I8Username10futureDate13recipientListySS_So7UIImageCS3S10Foundation0O0VSaySSGtFZ",
             "moduleName": "CustomFrameworkWFI",
             "static": true,
             "declAttributes": [
@@ -212,6 +204,23 @@
         "declAttributes": [
           "AccessControl"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworkWFI"
       }
     ],
     "json_format_version": 8
