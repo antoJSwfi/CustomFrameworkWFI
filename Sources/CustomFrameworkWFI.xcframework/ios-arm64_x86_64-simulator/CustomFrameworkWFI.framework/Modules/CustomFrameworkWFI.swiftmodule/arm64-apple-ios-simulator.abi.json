@@ -52,8 +52,60 @@
         "children": [
           {
             "kind": "Function",
+            "name": "saveMediaInFirestore",
+            "printedName": "saveMediaInFirestore(media:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18CustomFrameworkWFI3SDKV20saveMediaInFirestore5media10completionySo7UIImageC_yypSgctFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV20saveMediaInFirestore5media10completionySo7UIImageC_yypSgctFZ",
+            "moduleName": "CustomFrameworkWFI",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "sendRequest",
-            "printedName": "sendRequest(caption:image:ownerImageUrl:ownerUid:ownerUsername:futureDate:recipientList:)",
+            "printedName": "sendRequest(caption:imageUrl:ownerImageUrl:ownerUid:ownerUsername:futureDate:recipientList:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -68,9 +120,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "UIImage",
-                "printedName": "UIKit.UIImage",
-                "usr": "c:objc(cs)UIImage"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               },
               {
                 "kind": "TypeNominal",
@@ -112,8 +164,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18CustomFrameworkWFI3SDKV11sendRequest7caption5image13ownerImageUrl0I3Uid0I8Username10futureDate13recipientListySS_So7UIImageCS3S10Foundation0O0VSaySSGtFZ",
-            "mangledName": "$s18CustomFrameworkWFI3SDKV11sendRequest7caption5image13ownerImageUrl0I3Uid0I8Username10futureDate13recipientListySS_So7UIImageCS3S10Foundation0O0VSaySSGtFZ",
+            "usr": "s:18CustomFrameworkWFI3SDKV11sendRequest7caption8imageUrl010ownerImageI00J3Uid0J8Username10futureDate13recipientListySS_S4S10Foundation0O0VSaySSGtFZ",
+            "mangledName": "$s18CustomFrameworkWFI3SDKV11sendRequest7caption8imageUrl010ownerImageI00J3Uid0J8Username10futureDate13recipientListySS_S4S10Foundation0O0VSaySSGtFZ",
             "moduleName": "CustomFrameworkWFI",
             "static": true,
             "declAttributes": [
