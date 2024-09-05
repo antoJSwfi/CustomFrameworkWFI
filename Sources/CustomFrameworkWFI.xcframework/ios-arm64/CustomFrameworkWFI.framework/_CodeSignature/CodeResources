@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		mgLzy7ffTkVdmeSW45Z7KN/n+Jw=
+		pjVWxR5cPWnyqxEcTRtlr3JEpMM=
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		wJ2cD795V/e0+4NqkC2z8s8MsXw=
+		KCuP/QvIUbdSWZtsj6DNaRJkhxs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6Ls89gBiyMnAfuHT5f0cqbzo8QZUt+ZvaES7FNjiTE=
+			3Tty1OtjkeMfQANnSZvCTVJEwKO1MS7mCeSu9q+MkLM=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworkWFI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c3lkHPhdqmV/NLr6bG4/CpWwIBn+NHW7o2nvuFWLdsk=
+			tLuTFVMrhuLyKfWgyRoknd0pnCtkP4FLwPA6lNDJZdo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
