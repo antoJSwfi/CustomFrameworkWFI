@@ -281,119 +281,119 @@
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2343,
+      "offset": 2329,
       "length": 5,
       "value": "\"iss\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2374,
+      "offset": 2360,
       "length": 7,
       "value": "\"scope\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2405,
+      "offset": 2391,
       "length": 5,
       "value": "\"aud\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2440,
+      "offset": 2426,
       "length": 5,
       "value": "\"iat\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2476,
+      "offset": 2462,
       "length": 5,
       "value": "\"exp\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2343,
+      "offset": 2329,
       "length": 5,
       "value": "\"iss\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2374,
+      "offset": 2360,
       "length": 7,
       "value": "\"scope\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2405,
+      "offset": 2391,
       "length": 5,
       "value": "\"aud\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2440,
+      "offset": 2426,
       "length": 5,
       "value": "\"iat\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2476,
+      "offset": 2462,
       "length": 5,
       "value": "\"exp\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2633,
+      "offset": 2619,
       "length": 63,
       "value": "\"firebase-adminsdk-zn0cd@dev-waitforit.iam.gserviceaccount.com\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2731,
+      "offset": 2717,
       "length": 104,
       "value": "\"https:\/\/www.googleapis.com\/auth\/devstorage.full_control https:\/\/www.googleapis.com\/auth\/cloud-platform\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2862,
+      "offset": 2848,
       "length": 37,
       "value": "\"https:\/\/oauth2.googleapis.com\/token\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 3014,
+      "offset": 3000,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 3284,
+      "offset": 3270,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 3340,
+      "offset": 3326,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "Array",
-      "offset": 3381,
+      "offset": 3367,
       "length": 53,
       "value": "[\"tt5skazroTc1ZRGCBz+kGtYUIPhRvvZJYBs\"]"
     }
