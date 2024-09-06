@@ -330,49 +330,49 @@
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2265,
-      "length": 63,
-      "value": "\"firebase-adminsdk-zn0cd@dev-waitforit.iam.gserviceaccount.com\""
+      "offset": 2161,
+      "length": 65,
+      "value": "\"firebase-adminsdk-f1260@waitforit-a7c77.iam.gserviceaccount.com\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2363,
+      "offset": 2362,
       "length": 104,
       "value": "\"https:\/\/www.googleapis.com\/auth\/devstorage.full_control https:\/\/www.googleapis.com\/auth\/cloud-platform\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2494,
+      "offset": 2493,
       "length": 37,
       "value": "\"https:\/\/oauth2.googleapis.com\/token\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2646,
+      "offset": 2645,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 2916,
+      "offset": 2915,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2972,
+      "offset": 2971,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/antoczer\/Dropbox\/Nico\/Vladimir\/CurrentProject\/Framework\/CustomFrameworkWFI\/CustomFrameworkWFI\/SDK.swift",
       "kind": "Array",
-      "offset": 3013,
+      "offset": 3012,
       "length": 53,
       "value": "[\"tt5skazroTc1ZRGCBz+kGtYUIPhRvvZJYBs\"]"
     }
